@@ -2,7 +2,7 @@
 
 This project is a sleek, responsive landing page for Nike, showcasing dynamic animations, product carousels, and a modern UI.
 
-**Live Demo**: [Visit Nike Landing Page](https://67877d951b22abe64d6f9598--bespoke-choux-2a75a9.netlify.app/)
+**Live Demo**: [Visit Nike Landing Page](https://nikelandingpag.netlify.app/)
 
 
 # React + Vite
